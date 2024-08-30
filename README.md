@@ -165,6 +165,7 @@ Blockcore’s tone of voice is professional, authoritative, and forward-thinking
   - **[X](https://x.com/blockcoredev)**
   - **[GitHub](https://github.com/block-core)**
   - **[Discord](https://www.blockcore.net/discord)**
+  - **[YouTube](https://www.youtube.com/@blockcoredev)**
 - **Content Strategy:** Regular updates on development progress, community contributions, and educational posts about decentralization.
 
 ### 4.4 Swag and Merchandise
