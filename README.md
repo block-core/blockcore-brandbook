@@ -107,12 +107,12 @@ For promotional use, we provide Blockcore banners in standard web sizes:
 The Blockcore color palette is designed to reflect the modern and innovative nature of the brand.
 
 #### Primary Colors
-- <img src="assets/colors/dark (272932).png" alt="Dark Gray" style="height: 20px;"/> **Dark Gray:** `#272932`
-- <img src="assets/colors/teal-green (22a59d).png" alt="Teal Green" style="height: 20px;"/> **Teal Green:** `#22a59d`
-- <img src="assets/colors/medium-blue (22719d).png" alt="Medium Blue" style="height: 20px;"/> **Medium Blue:** `#22719d`
+- <img src="assets/colors/dark (272932).png" alt="Dark Gray" style="height: 20px;"/> **Dark Gray:** `#272932` | `rgb(39, 41, 50)`
+- <img src="assets/colors/teal-green (22a59d).png" alt="Teal Green" style="height: 20px;"/> **Teal Green:** `#22a59d` | `rgb(34, 165, 157)`
+- <img src="assets/colors/medium-blue (22719d).png" alt="Medium Blue" style="height: 20px;"/> **Medium Blue:** `#22719d` | `rgb(34, 113, 157)`
 
 #### Secondary Colors
-- <img src="assets/colors/light (d8d6cd).png" alt="Light Gray" style="height: 20px;"/> **Light Gray:** `#d8d6cd`
+- <img src="assets/colors/light (d8d6cd).png" alt="Light Gray" style="height: 20px;"/> **Light Gray:** `#d8d6cd` | `rgb(216, 214, 205)`
 - <img src="assets/colors/gradiant.png" alt="Gradient" style="height: 20px;"/> **Gradient:** Teal Green to Medium Blue
 
 ### 2.6 Typography
